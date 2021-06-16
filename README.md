@@ -29,6 +29,7 @@
 - [hairsalon-demo](https://github.com/muffinist11/hairsalon-demo)　=>　実案件でヘアサロンHP作成
 - [loginform](https://github.com/muffinist11/codeigniter-loginform)　=>　ログインフォーム
 - [bbs](https://github.com/muffinist11/laravelbbs)　=>　Laravelで作成した掲示板
+- その他制作物もアップしております。
 
 
 
