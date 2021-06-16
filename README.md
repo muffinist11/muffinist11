@@ -25,10 +25,10 @@
 ```
 
 ## 過去の制作
-- [Inventory Control](https://github.com/muffinist11/Inventory-control)=>チーム開発作品
-- [hairsalon-demo](https://github.com/muffinist11/hairsalon-demo)=>実案件でヘアサロンHP作成
-- [loginform](https://github.com/muffinist11/codeigniter-loginform)=>ログインフォーム
-- [bbs](https://github.com/muffinist11/laravelbbs)=>掲示板
+- [Inventory Control](https://github.com/muffinist11/Inventory-control)=>　チーム　開発作品
+- [hairsalon-demo](https://github.com/muffinist11/hairsalon-demo)　=>　実案件でヘアサロンHP作成
+- [loginform](https://github.com/muffinist11/codeigniter-loginform)　=>　ログインフォーム
+- [bbs](https://github.com/muffinist11/laravelbbs)　=>　Laravelで作成した掲示板
 
 
 
