@@ -3,7 +3,7 @@
 
 ## 好きな言語
 ```
-→JavaScript
+→JavaScript　React/TypeScript
 →PHP
 ```
 
@@ -11,6 +11,6 @@
 ```
 →CodeIgniter
 →Laravel
-→Wordpress
+→Next.js
 ```
 
