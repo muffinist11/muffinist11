@@ -1,12 +1,7 @@
 ## 好きな言語
 
 ```
-→JavaScript　React/TypeScript
-```
-
-## 好きなツール
-
-```
-→Next.js
+→JavaScript　React/TypeScript Next.js
+→Ruby Ruby on Rails
 ```
 
