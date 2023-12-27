@@ -1,7 +1,12 @@
 ## 好きな言語
 ```
-→JavaScript　React/TypeScript Next.js
-→Ruby Ruby on Rails
+JavaScript
+ - React/TypeScript
+ - Next.js
+Ruby
+ - Ruby on Rails
+OTHER
+ - React on Rails
 ```
 <p align="left">
   <a href="https://github.com/muffinist11">
