@@ -20,7 +20,6 @@ OTHER
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muffinist11&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muffinist11&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muffinist11&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muffinist11&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muffinist11&theme=gruvbox&utcOffset=9)
 
