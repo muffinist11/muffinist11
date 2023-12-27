@@ -20,5 +20,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muffinist11&theme=gruvbox&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=muffinist11&theme=gruvbox)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Commits,Repositories,Experience)
