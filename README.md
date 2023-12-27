@@ -5,6 +5,9 @@ JavaScript
  - Next.js
 Ruby
  - Ruby on Rails
+PHP
+ - Laravel
+ - CodeIgniter
 OTHER
  - React on Rails
 ```
