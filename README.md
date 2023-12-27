@@ -1,4 +1,4 @@
-## 好きな言語
+## Language
 ```
 JavaScript
  - React/TypeScript
