@@ -8,8 +8,6 @@ Ruby
 PHP
  - Laravel
  - CodeIgniter
-OTHER
- - React on Rails
 ```
 <p align="left">
   <a href="https://github.com/muffinist11">
