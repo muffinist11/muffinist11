@@ -22,7 +22,7 @@ PHP
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muffinist11&theme=solarized)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Commits,Repositories,Experience)
+![trophy](https://github-profile-trophy.vercel.app/?username=muffinist11&title=MultiLanguage,Commits,Repositories,Experience)
 
 ## Contributions
 ![](https://raw.githubusercontent.com/muffinist11/muffinist11/output/github-contribution-grid-snake.svg)
